@@ -1,10 +1,10 @@
 # Leonardo Teixeira Virgilio  
  [![Linkedin Badge](https://img.shields.io/badge/-leovirgilio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leovirgilio/)](https://www.linkedin.com/in/leovirgilio/)
 [![E-mail Badge](https://img.shields.io/badge/-leovirgilio@live.com-black?style=flat-square&logo=Microsoft&logoColor=white&link=mailto:leovirgilio@live.com)](mailto:leovirgilio@live.com)
-[![Portfolio Badge](https://img.shields.io/badge/-+55(18)99657--2438-gree?style=flat-square&logo=whatsapp&logoColor=white&link=https://kunalraghav.github.io)](https://kunalraghav.github.io)
+[![Whastapp](https://img.shields.io/badge/-+55(18)99657--2438-gree?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5518996572438)](https://wa.me/5518996572438)
 
 ### Olá 👋, 
-Sou Leonardo Teixeira Virgilio, eu sou software engineer 👨‍💻 e curioso por novas tecnologias.
+Sou um software engineer 👨‍💻 curioso por novas tecnologias.
 
 - 🔭 Atualmente eu trabalho como *Desenvolvedor Backend Magento*
 - 🌱 Estou aprendo Golang
